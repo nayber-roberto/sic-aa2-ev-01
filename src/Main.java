@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
         String user = "root";
-        String password = "Jehovayire142927*";
+        String password = "Nayber932911*";
         String url = "jdbc:mysql://localhost:3306/sicdb";
 
         Connection connection = null;
